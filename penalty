@@ -1,13 +1,5 @@
 [
-  {
-    "id": "0",
-    "title": "0"
-  },
-  {
-    "id": "M",
-    "title": "MIS"
-  },
-  {
+   {
     "id": "1",
     "title": "1 bod"
   },
@@ -166,9 +158,5 @@
   {
     "id": "40",
     "title": "40 bodů"
-  },
-  {
-    "id": "X",
-    "title": "Desítka X (střed)"
   }
 ]
